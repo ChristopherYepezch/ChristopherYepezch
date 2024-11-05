@@ -6,14 +6,14 @@ Software Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChristopherYepezch&label=Profile%20views&color=0e75b6&style=flat" alt="acr1209" /> </p>
 
-I've been learning software development and managment last 5 years.
+I've been learning software development and management the last 5 years.
 
-* 🌍  I'm based in Ecuador
+* 🌍  I'm from Quito, Ecuador
 * 🖥️  See my portfolio at [ligobas](http://ligobas.com)
 * ✉️  You can contact me at [yepecri123@gmail.com](mailto:yepecri123@gmail.com)
-* 🧠  I'm learning vueJS, Angular
-* 🤝  I'm open to collaborating on innovating and creative projects
-* ⚡  I really like art, photgraphy and music
+* 🧠  I'm learning vueJS, Angular and Svelte
+* 🤝  I'm open to colab and work on any innovating project
+* ⚡  I really like art, photography and music
 
 ### Skills
 
